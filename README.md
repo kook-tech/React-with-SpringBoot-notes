@@ -7,7 +7,7 @@
 
 **노트를 더욱 편리하게 보시는 방법(2/2)**
 
-1.word파일 오우 하단의 웹모양 버튼을 클릭 <br>
+1.word파일 우측 하단의 웹모양 버튼을 클릭 <br>
 ![image](https://github.com/user-attachments/assets/ce040530-a602-40ea-9a3c-2826c179d3a1)
  <br><br>
 2.word파일 우측 상단의 편집->보기 버튼 클릭 <br>
